@@ -9,7 +9,7 @@ Sou estudante de Engenharia Elétrica na UTFPR - Universidade Tecnológica Feder
 
 
 **Links:**
-* [LinkedIn](linkedin.com/in/eduardo-correa-araujo-6090251b0/)
+* [LinkedIn](https://www.linkedin.com/in/eduardo-correa-araujo-6090251b0/)
 
 
 
