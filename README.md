@@ -14,4 +14,4 @@ Sou estudante de Engenharia Elétrica na UTFPR - Universidade Tecnológica Feder
 
 
 ## Projetos:
-**[Implementação do modelo SIR em python(https://github.com/eduardocorrearaujo/ModeloSIR)]
+**[Implementação do modelo SIR em python](https://github.com/eduardocorrearaujo/ModeloSIR)
